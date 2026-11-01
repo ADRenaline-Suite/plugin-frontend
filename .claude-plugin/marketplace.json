@@ -1,0 +1,16 @@
+{
+  "name": "plugin-frontend",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "plugins": [
+    {
+      "name": "plugin-frontend",
+      "source": "./",
+      "description": "Implements a screen from a handoff: structure, states, and the Core Web Vitals budget."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace with the Frontend plugin."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "plugin-frontend",
+  "description": "Implements a screen from a handoff: structure, states, and the Core Web Vitals budget.",
+  "version": "0.0.1",
+  "author": {
+    "name": "d-mente"
+  },
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "handoff",
+    "states",
+    "web-vitals"
+  ],
+  "repository": "https://github.com/ADRenaline-Suite/plugin-frontend"
+}

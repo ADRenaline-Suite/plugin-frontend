@@ -1,0 +1,12 @@
+---
+description: No screen is coded without a handoff, interface copy, and accessibility requirements. The visual design stays in its plugin.
+alwaysApply: true
+---
+
+# Handoff before code
+
+The handoff comes from `plugin-ui-ux-design`. The words come from `plugin-ux-writing`. The accessibility requirements come from `plugin-accessibility`. If one of the three is missing, write nothing and name it.
+
+Read `references/angular.md` only when the project already has `angular.json` or `@angular/core`. That file does not choose Angular. Taiga UI is used only when the project already depends on it.
+
+Core Web Vitals, field data, 75th percentile, mobile and desktop reported apart: LCP at or under 2.5 s, INP at or under 200 ms, CLS at or under 0.1 (web.dev, current set).
